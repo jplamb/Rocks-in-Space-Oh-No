@@ -1,0 +1,1 @@
+This project is a practice workspace for Unity. The project follows the office tutorial for Space Shooter. 
